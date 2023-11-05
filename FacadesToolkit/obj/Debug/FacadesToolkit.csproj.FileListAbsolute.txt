@@ -1,0 +1,239 @@
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\bin\Debug\FacadesToolkit.dll
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\bin\Debug\FacadesToolkit.pdb
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit.csproj.AssemblyReference.cache
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\InfoPage.baml
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\InfoPage.g.cs
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\MainWindow.g.cs
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\SignUpPage.g.cs
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\StartPage.g.cs
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\SettingsPage.g.cs
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\ProductInfoPage.g.cs
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit_MarkupCompile.cache
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit_MarkupCompile.lref
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\MainWindow.baml
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\SignUpPage.baml
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\StartPage.baml
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\SettingsPage.baml
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\ProductInfoPage.baml
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit.g.resources
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit.dll
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit.pdb
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit.csproj.AssemblyReference.cache
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\obj\Debug\Cutting\ClippingIndentWindow.baml
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\InfoPage.baml
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\obj\Debug\Cutting\ClippingIndentWindow.g.cs
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\InfoPage.g.cs
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\MainWindow.g.cs
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\SignUpPage.g.cs
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\StartPage.g.cs
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\SettingsPage.g.cs
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\ProductInfoPage.g.cs
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit_MarkupCompile.cache
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit_MarkupCompile.lref
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit.dll
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit.pdb
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\bin\Debug\FacadesToolkit.dll.config
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\bin\Debug\FacadesToolkit.dll
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\bin\Debug\FacadesToolkit.pdb
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\MainWindow.baml
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\SignUpPage.baml
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\StartPage.baml
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\SettingsPage.baml
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\ProductInfoPage.baml
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit.g.resources
+C:\Users\SF_BI\OneDrive\Рабочий стол\плагины\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\bin\Debug\FacadesToolkit.dll.config
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\Cutting\CuttingMenu.baml
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\Cutting\CuttingMenu.g.cs
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\bin\Debug\FacadesToolkit.dll.config
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\bin\Debug\FacadesToolkit.dll
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\bin\Debug\FacadesToolkit.pdb
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit.csproj.AssemblyReference.cache
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\InfoPage.baml
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\InfoPage.g.cs
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\MainWindow.g.cs
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\SignUpPage.g.cs
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\StartPage.g.cs
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\SettingsPage.g.cs
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\ProductInfoPage.g.cs
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\SupportPage.g.cs
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit_MarkupCompile.cache
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit_MarkupCompile.lref
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\MainWindow.baml
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\SignUpPage.baml
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\StartPage.baml
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\SettingsPage.baml
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\ProductInfoPage.baml
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\SupportPage.baml
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit.g.resources
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit.dll
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit.pdb
+D:\Работа\Plag\FacadesToolkit\bin\Debug\FacadesToolkit.dll.config
+D:\Работа\Plag\FacadesToolkit\bin\Debug\FacadesToolkit.dll
+D:\Работа\Plag\FacadesToolkit\bin\Debug\FacadesToolkit.pdb
+D:\Работа\Plag\FacadesToolkit\obj\Debug\FacadesToolkit.csproj.AssemblyReference.cache
+D:\Работа\Plag\FacadesToolkit\obj\Debug\Cutting\CuttingMenu.baml
+D:\Работа\Plag\FacadesToolkit\obj\Debug\MainInterface\InfoPage.baml
+D:\Работа\Plag\FacadesToolkit\obj\Debug\Cutting\CuttingMenu.g.cs
+D:\Работа\Plag\FacadesToolkit\obj\Debug\MainInterface\InfoPage.g.cs
+D:\Работа\Plag\FacadesToolkit\obj\Debug\MainInterface\MainWindow.g.cs
+D:\Работа\Plag\FacadesToolkit\obj\Debug\MainInterface\SignUpPage.g.cs
+D:\Работа\Plag\FacadesToolkit\obj\Debug\MainInterface\StartPage.g.cs
+D:\Работа\Plag\FacadesToolkit\obj\Debug\MainInterface\SettingsPage.g.cs
+D:\Работа\Plag\FacadesToolkit\obj\Debug\MainInterface\ProductInfoPage.g.cs
+D:\Работа\Plag\FacadesToolkit\obj\Debug\MainInterface\SupportPage.g.cs
+D:\Работа\Plag\FacadesToolkit\obj\Debug\FacadesToolkit_MarkupCompile.cache
+D:\Работа\Plag\FacadesToolkit\obj\Debug\FacadesToolkit_MarkupCompile.lref
+D:\Работа\Plag\FacadesToolkit\obj\Debug\MainInterface\MainWindow.baml
+D:\Работа\Plag\FacadesToolkit\obj\Debug\MainInterface\SignUpPage.baml
+D:\Работа\Plag\FacadesToolkit\obj\Debug\MainInterface\StartPage.baml
+D:\Работа\Plag\FacadesToolkit\obj\Debug\MainInterface\SettingsPage.baml
+D:\Работа\Plag\FacadesToolkit\obj\Debug\MainInterface\ProductInfoPage.baml
+D:\Работа\Plag\FacadesToolkit\obj\Debug\MainInterface\SupportPage.baml
+D:\Работа\Plag\FacadesToolkit\obj\Debug\FacadesToolkit.g.resources
+D:\Работа\Plag\FacadesToolkit\obj\Debug\FacadesToolkit.csproj.CoreCompileInputs.cache
+D:\Работа\Plag\FacadesToolkit\obj\Debug\FacadesToolkit.dll
+D:\Работа\Plag\FacadesToolkit\obj\Debug\FacadesToolkit.pdb
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\SupportPage.g.cs
+C:\Users\Илья\Source\Repos\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\SupportPage.baml
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\bin\Debug\FacadesToolkit.dll.config
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\bin\Debug\FacadesToolkit.dll
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\bin\Debug\FacadesToolkit.pdb
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\FacadesToolkit.csproj.AssemblyReference.cache
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\MainInterface\InfoPage.baml
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\MainInterface\InfoPage.g.cs
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\MainInterface\MainWindow.g.cs
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\MainInterface\SignUpPage.g.cs
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\MainInterface\StartPage.g.cs
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\MainInterface\SettingsPage.g.cs
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\MainInterface\ProductInfoPage.g.cs
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\MainInterface\SupportPage.g.cs
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\FacadesToolkit_MarkupCompile.cache
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\FacadesToolkit_MarkupCompile.lref
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\MainInterface\MainWindow.baml
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\MainInterface\SignUpPage.baml
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\MainInterface\StartPage.baml
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\MainInterface\SettingsPage.baml
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\MainInterface\ProductInfoPage.baml
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\MainInterface\SupportPage.baml
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\FacadesToolkit.g.resources
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\FacadesToolkit.csproj.CoreCompileInputs.cache
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\FacadesToolkit.dll
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\FacadesToolkit.pdb
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\AddIns\Cutting\CuttingMenu.baml
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\AddIns\Coordinater\windowCoordinater.g.cs
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\AddIns\Cutting\CuttingMenu.g.cs
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\AddIns\Coordinater\windowCoordinater.baml
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\AddIns\SFLIB\DockablePaneViewer.g.cs
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Tookit\FacadesToolkit\obj\Debug\AddIns\SFLIB\DockablePaneViewer.baml
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\AddIns\Cutting\CuttingMenu.baml
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\AddIns\Coordinater\windowCoordinater.g.cs
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\AddIns\Cutting\CuttingMenu.g.cs
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\AddIns\SFLIB\DockablePaneViewer.g.cs
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\AddIns\Coordinater\windowCoordinater.baml
+C:\Users\roman\source\repos\FacadesToolkit\FacadesToolkit\obj\Debug\AddIns\SFLIB\DockablePaneViewer.baml
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\bin\Debug\FacadesToolkit.dll.config
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\bin\Debug\FacadesToolkit.dll
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\bin\Debug\FacadesToolkit.pdb
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\FacadesToolkit.csproj.AssemblyReference.cache
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\AddIns\Cutting\CuttingMenu.baml
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\MainInterface\InfoPage.baml
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\AddIns\Coordinater\windowCoordinater.g.cs
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\AddIns\Cutting\CuttingMenu.g.cs
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\AddIns\SFLIB\DockablePaneViewer.g.cs
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\MainInterface\InfoPage.g.cs
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\MainInterface\MainWindow.g.cs
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\MainInterface\SignUpPage.g.cs
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\MainInterface\StartPage.g.cs
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\MainInterface\SettingsPage.g.cs
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\MainInterface\ProductInfoPage.g.cs
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\MainInterface\SupportPage.g.cs
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\FacadesToolkit_MarkupCompile.cache
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\FacadesToolkit_MarkupCompile.lref
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\AddIns\Coordinater\windowCoordinater.baml
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\AddIns\SFLIB\DockablePaneViewer.baml
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\MainInterface\MainWindow.baml
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\MainInterface\SignUpPage.baml
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\MainInterface\StartPage.baml
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\MainInterface\SettingsPage.baml
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\MainInterface\ProductInfoPage.baml
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\MainInterface\SupportPage.baml
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\FacadesToolkit.g.resources
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\FacadesToolkit.csproj.CoreCompileInputs.cache
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\FacadesToolkit.dll
+C:\Users\SF_PG\OneDrive\Рабочий стол\плагины\Facades Toolkit\FacadesToolkit\obj\Debug\FacadesToolkit.pdb
+D:\Revit_Plagin\Ft 2.0\FacadesToolkit\obj\Debug\FacadesToolkit.csproj.AssemblyReference.cache
+D:\Revit_Plagin\Ft 2.0\FacadesToolkit\obj\Debug\AddIns\Cutting\CuttingMenu.baml
+D:\Revit_Plagin\Ft 2.0\FacadesToolkit\obj\Debug\MainInterface\InfoPage.baml
+D:\Revit_Plagin\Ft 2.0\FacadesToolkit\obj\Debug\AddIns\Coordinater\windowCoordinater.g.cs
+D:\Revit_Plagin\Ft 2.0\FacadesToolkit\obj\Debug\AddIns\Cutting\CuttingMenu.g.cs
+D:\Revit_Plagin\Ft 2.0\FacadesToolkit\obj\Debug\AddIns\SFLIB\DockablePaneViewer.g.cs
+D:\Revit_Plagin\Ft 2.0\FacadesToolkit\obj\Debug\MainInterface\InfoPage.g.cs
+D:\Revit_Plagin\Ft 2.0\FacadesToolkit\obj\Debug\MainInterface\MainWindow.g.cs
+D:\Revit_Plagin\Ft 2.0\FacadesToolkit\obj\Debug\MainInterface\SignUpPage.g.cs
+D:\Revit_Plagin\Ft 2.0\FacadesToolkit\obj\Debug\MainInterface\StartPage.g.cs
+D:\Revit_Plagin\Ft 2.0\FacadesToolkit\obj\Debug\MainInterface\SettingsPage.g.cs
+D:\Revit_Plagin\Ft 2.0\FacadesToolkit\obj\Debug\MainInterface\ProductInfoPage.g.cs
+D:\Revit_Plagin\Ft 2.0\FacadesToolkit\obj\Debug\MainInterface\SupportPage.g.cs
+D:\Revit_Plagin\Ft 2.0\FacadesToolkit\obj\Debug\FacadesToolkit_MarkupCompile.cache
+D:\Revit_Plagin\Ft 2.0\FacadesToolkit\obj\Debug\FacadesToolkit_MarkupCompile.lref
+D:\Revit_Plagin\Ft 2.0\FacadesToolkit\obj\Debug\FacadesToolkit.dll
+D:\Revit_Plagin\Ft 2.0\FacadesToolkit\obj\Debug\FacadesToolkit.pdb
+D:\Работа\Facade\FacadesToolkit\obj\Debug\FacadesToolkit.csproj.AssemblyReference.cache
+D:\Работа\Facade\FacadesToolkit\obj\Debug\AddIns\Cutting\CuttingMenu.baml
+D:\Работа\Facade\FacadesToolkit\obj\Debug\MainInterface\InfoPage.baml
+D:\Работа\Facade\FacadesToolkit\obj\Debug\AddIns\Coordinater\windowCoordinater.g.cs
+D:\Работа\Facade\FacadesToolkit\obj\Debug\AddIns\Cutting\CuttingMenu.g.cs
+D:\Работа\Facade\FacadesToolkit\obj\Debug\AddIns\SFLIB\DockablePaneViewer.g.cs
+D:\Работа\Facade\FacadesToolkit\obj\Debug\MainInterface\InfoPage.g.cs
+D:\Работа\Facade\FacadesToolkit\obj\Debug\MainInterface\MainWindow.g.cs
+D:\Работа\Facade\FacadesToolkit\obj\Debug\MainInterface\SignUpPage.g.cs
+D:\Работа\Facade\FacadesToolkit\obj\Debug\MainInterface\StartPage.g.cs
+D:\Работа\Facade\FacadesToolkit\obj\Debug\MainInterface\SettingsPage.g.cs
+D:\Работа\Facade\FacadesToolkit\obj\Debug\MainInterface\ProductInfoPage.g.cs
+D:\Работа\Facade\FacadesToolkit\obj\Debug\MainInterface\SupportPage.g.cs
+D:\Работа\Facade\FacadesToolkit\obj\Debug\FacadesToolkit_MarkupCompile.cache
+D:\Работа\Facade\FacadesToolkit\obj\Debug\FacadesToolkit_MarkupCompile.lref
+D:\Работа\Facade\FacadesToolkit\obj\Debug\FacadesToolkit.dll
+D:\Работа\Facade\FacadesToolkit\obj\Debug\FacadesToolkit.pdb
+D:\Работа\Facade\FacadesToolkit\bin\Debug\FacadesToolkit.dll.config
+D:\Работа\Facade\FacadesToolkit\bin\Debug\FacadesToolkit.dll
+D:\Работа\Facade\FacadesToolkit\bin\Debug\FacadesToolkit.pdb
+D:\Работа\Facade\FacadesToolkit\obj\Debug\AddIns\Coordinater\windowCoordinater.baml
+D:\Работа\Facade\FacadesToolkit\obj\Debug\AddIns\SFLIB\DockablePaneViewer.baml
+D:\Работа\Facade\FacadesToolkit\obj\Debug\MainInterface\MainWindow.baml
+D:\Работа\Facade\FacadesToolkit\obj\Debug\MainInterface\SignUpPage.baml
+D:\Работа\Facade\FacadesToolkit\obj\Debug\MainInterface\StartPage.baml
+D:\Работа\Facade\FacadesToolkit\obj\Debug\MainInterface\SettingsPage.baml
+D:\Работа\Facade\FacadesToolkit\obj\Debug\MainInterface\ProductInfoPage.baml
+D:\Работа\Facade\FacadesToolkit\obj\Debug\MainInterface\SupportPage.baml
+D:\Работа\Facade\FacadesToolkit\obj\Debug\FacadesToolkit.g.resources
+D:\Работа\Facade\FacadesToolkit\obj\Debug\FacadesToolkit.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit.csproj.AssemblyReference.cache
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\AddIns\Cutting\CuttingMenu.baml
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\InfoPage.baml
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\AddIns\Cutting\CuttingMenu.g.cs
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\InfoPage.g.cs
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\MainWindow.g.cs
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\SignUpPage.g.cs
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\StartPage.g.cs
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\SettingsPage.g.cs
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\ProductInfoPage.g.cs
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\SupportPage.g.cs
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit_MarkupCompile.cache
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit_MarkupCompile.lref
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit.dll
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit.pdb
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\bin\Debug\FacadesToolkit.dll.config
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\bin\Debug\FacadesToolkit.dll
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\bin\Debug\FacadesToolkit.pdb
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\MainWindow.baml
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\SignUpPage.baml
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\StartPage.baml
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\SettingsPage.baml
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\ProductInfoPage.baml
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\MainInterface\SupportPage.baml
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit.g.resources
+C:\Users\roman\source\FacadesToolkit\FacadesToolkit\obj\Debug\FacadesToolkit.csproj.CoreCompileInputs.cache

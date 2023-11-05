@@ -1,0 +1,140 @@
+﻿<Page x:Class="FacadesToolkit.MainInterface.SignUpPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FacadesToolkit.MainInterface"
+             mc:Ignorable="d" 
+             Height="334" Width="450">
+
+    <Page.Resources>
+
+        <SolidColorBrush x:Key="Button.MouseOver.Background" Color="#FFD57334"/>
+        <SolidColorBrush x:Key="Button.MouseOver.Border" Color="#FFD57334"/>
+        <SolidColorBrush x:Key="Button.Pressed.Background" Color="#FFA55928"/>
+        <SolidColorBrush x:Key="Button.Pressed.Border" Color="#FFA55928"/>
+        <SolidColorBrush x:Key="Button.Disabled.Background" Color="#FFF4F4F4"/>
+        <SolidColorBrush x:Key="Button.Disabled.Border" Color="#FFADB2B5"/>
+        <SolidColorBrush x:Key="Button.Disabled.Foreground" Color="#FF838383"/>
+        <ControlTemplate x:Key="ButtonTemplateBase" TargetType="{x:Type ButtonBase}">
+            <Border x:Name="border" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" SnapsToDevicePixels="true" CornerRadius="6">
+                <ContentPresenter x:Name="contentPresenter" Focusable="False" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="Button.IsDefaulted" Value="true">
+                    <Setter Property="BorderBrush" TargetName="border" Value="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+                </Trigger>
+                <Trigger Property="IsMouseOver" Value="true">
+                    <Setter Property="Background" TargetName="border" Value="{StaticResource Button.MouseOver.Background}"/>
+                    <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.MouseOver.Border}"/>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="true">
+                    <Setter Property="Background" TargetName="border" Value="{StaticResource Button.Pressed.Background}"/>
+                    <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Pressed.Border}"/>
+                </Trigger>
+                <Trigger Property="IsEnabled" Value="false">
+                    <Setter Property="Background" TargetName="border" Value="{StaticResource Button.Disabled.Background}"/>
+                    <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Disabled.Border}"/>
+                    <Setter Property="TextElement.Foreground" TargetName="contentPresenter" Value="{StaticResource Button.Disabled.Foreground}"/>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+
+        <ControlTemplate x:Key="ButtonTemplateLogo" TargetType="{x:Type ButtonBase}">
+            <Border x:Name="border" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" SnapsToDevicePixels="true" CornerRadius="8">
+                <ContentPresenter x:Name="contentPresenter" Focusable="False" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+            </Border>
+        </ControlTemplate>
+
+        <SolidColorBrush x:Key="TextBox.MouseOver.Border" Color="#FFBF855F"/>
+        <SolidColorBrush x:Key="TextBox.Focus.Border" Color="#FFD57334"/>
+        <ControlTemplate x:Key="PasswordBoxTemplateBase" TargetType="{x:Type PasswordBox}">
+            <Border x:Name="border" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Padding="6,0,0,0" CornerRadius="6" SnapsToDevicePixels="True">
+                <ScrollViewer x:Name="PART_ContentHost" Focusable="false" HorizontalScrollBarVisibility="Hidden" VerticalScrollBarVisibility="Hidden"/>
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsEnabled" Value="false">
+                    <Setter Property="Opacity" TargetName="border" Value="0.56"/>
+                </Trigger>
+                <Trigger Property="IsMouseOver" Value="true">
+                    <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource TextBox.MouseOver.Border}"/>
+                </Trigger>
+                <Trigger Property="IsKeyboardFocused" Value="true">
+                    <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource TextBox.Focus.Border}"/>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+
+        <ControlTemplate x:Key="TextBoxTemplateBase" TargetType="{x:Type TextBoxBase}">
+            <Border x:Name="border" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Padding="6,0,0,0" CornerRadius="6" SnapsToDevicePixels="True">
+                <ScrollViewer x:Name="PART_ContentHost" Focusable="false" HorizontalScrollBarVisibility="Hidden" VerticalScrollBarVisibility="Hidden"/>
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsEnabled" Value="false">
+                    <Setter Property="Opacity" TargetName="border" Value="0.56"/>
+                </Trigger>
+                <Trigger Property="IsMouseOver" Value="true">
+                    <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource TextBox.MouseOver.Border}"/>
+                </Trigger>
+                <Trigger Property="IsKeyboardFocused" Value="true">
+                    <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource TextBox.Focus.Border}"/>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+    </Page.Resources>
+    
+    
+    
+    
+    
+    <Grid>
+        <StackPanel Orientation="Vertical"
+                    Width="auto" Height="auto"
+                    VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,40,0,0">
+            <StackPanel>
+                <TextBlock Text="Логин" 
+                           Foreground="#FF969696"
+                           Margin="4,0,0,6"/>
+                <TextBox Template="{DynamicResource TextBoxTemplateBase}" 
+                         x:Name="Login" 
+                         HorizontalAlignment="Center" VerticalAlignment="Top"
+                         Width="180" Height="30" 
+                         VerticalContentAlignment="Center"
+                         Foreground="White" Background="#FF2B2B2B" BorderBrush="#FF969696" SelectionTextBrush="#FFD57334"/>
+            </StackPanel>
+            <StackPanel Margin="0,10,0,0">
+                <TextBlock Text="Пароль" 
+                           Foreground="#FF969696"
+                           Margin="4,0,0,6"/>
+                <PasswordBox Template="{DynamicResource PasswordBoxTemplateBase}" 
+                         x:Name="Password"
+                         HorizontalAlignment="Center" VerticalAlignment="Top" 
+                         Width="180" Height="30"
+                         VerticalContentAlignment="Center"
+                         Foreground="White" Background="#FF2B2B2B" BorderBrush="#FF969696" SelectionTextBrush="#FFD57334"/>
+            </StackPanel>
+
+            <StackPanel Margin="0,10,0,0">
+                <TextBlock Text="Ключ продукта" 
+                           Foreground="#FF969696"
+                           Margin="4,0,0,6"/>
+                <TextBox Template="{DynamicResource TextBoxTemplateBase}" 
+                         x:Name="Source" 
+                         HorizontalAlignment="Center" VerticalAlignment="Top"
+                         Width="180" Height="30" 
+                         VerticalContentAlignment="Center"
+                         Foreground="White" Background="#FF2B2B2B" BorderBrush="#FF969696" SelectionTextBrush="#FFD57334"/>
+            </StackPanel>
+
+            <Button Template="{DynamicResource ButtonTemplateBase}" 
+                    x:Name="SignUp" 
+                    Content="Вход" 
+                    HorizontalAlignment="Center" VerticalAlignment="Top" 
+                    Click="Button_Click" 
+                    Margin="0,30,0,0"
+                    Cursor="Hand"
+                    Width="180" Height="36" 
+                    Background="{x:Null}" BorderBrush="#FFD57334" Foreground="#DDDD"/>
+        </StackPanel>
+    </Grid>
+</Page>
